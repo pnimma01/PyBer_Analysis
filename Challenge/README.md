@@ -4,7 +4,7 @@
 **Note:**
 I worked with Aman Gill for this challenge. We followed pair-programming methodology and the code and readme were co-created.
 
-# **PyBer Analysis**
+
 
 ## **Project Overview**
 
@@ -14,11 +14,6 @@ We will be analyzing the ride share data based on the following type of rides:
 2. Suburban
 3. Rural
 
-Here is the summary of  Average Fare by City Type: ![Average Fare by City Type](https://github.com/pnimma01/PyBer_Analysis/blob/b66012ac31ed6c5dbc9ff775542ca501bb5a81f9/Challenge/Resources/Average%20Fare%20Group%20By.png)
-
-Total Fare by City Type:  
-![Total Fare by City Type](https://github.com/pnimma01/PyBer_Analysis/blob/b66012ac31ed6c5dbc9ff775542ca501bb5a81f9/Challenge/Resources/Challenge_fare_summary.png)
-
 ## **Results**
 
 After merging and summarizing the data using groupby, we find out that:
@@ -26,6 +21,12 @@ After merging and summarizing the data using groupby, we find out that:
 2. Rural areas also have the highest average fare, either by ride or by driver.
 3. However, Revenue (total fare amount) is lowest in rural cities and while it is hishest in urban cities .
 4. **One interesting find is thar the average fare per driver is really low in urban cities.**
+
+Here is the summary of  Average Fare by City Type: ![Average Fare by City Type](https://github.com/pnimma01/PyBer_Analysis/blob/b66012ac31ed6c5dbc9ff775542ca501bb5a81f9/Challenge/Resources/Average%20Fare%20Group%20By.png)
+
+Total Fare by City Type:  
+![Total Fare by City Type](https://github.com/pnimma01/PyBer_Analysis/blob/b66012ac31ed6c5dbc9ff775542ca501bb5a81f9/Challenge/Resources/Challenge_fare_summary.png)
+
 
 ## **Summary:**
 
